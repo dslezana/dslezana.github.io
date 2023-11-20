@@ -1,0 +1,21 @@
+{
+  "name": "dslezana.io",
+  "version": "1.0.0",
+  "description": "Portfolio personal",
+  "main": "index.js",
+  "author": "leandrogutierrez148@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.68",
+    "vue": "^3.3.8",
+    "vuepress": "2.0.0-beta.68",
+    "vuepress-theme-hope": "2.0.0-beta.250"
+  },
+  "repository": "https://github.com/dslezana/dslezana.github.io"
+}
