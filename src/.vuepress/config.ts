@@ -6,8 +6,8 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Diego Lezana",
+      lang: "es-ES",
+      title: "Home",
       description: "Mi blog personal",
     },
   },

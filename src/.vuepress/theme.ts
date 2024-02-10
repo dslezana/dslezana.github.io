@@ -6,25 +6,20 @@ export default hopeTheme({
   hostname: "https://dslezana.github.io",
 
   author: {
-    name: "Diego Lezana",
+    name: "Diegui Lezana",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/favicon.ico",
-
   favicon: "/favicon.ico",
   
   darkmode: "toggle",
-
-  repo: "dslezana/dslezana.github.io",
 
   docsDir: "src",
 
   blog: {
     medias: {
       Linkedin: "https://www.linkedin.com/in/lgutierrez148/",
-      Github: "https://github.com/dslezana"
     },
   },
 
@@ -46,7 +41,6 @@ export default hopeTheme({
       },
 
       metaLocales: {
-        editLink: "Editar GitHub",
       },
     },
 
