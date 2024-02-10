@@ -41,7 +41,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "Emprendedor",
+        description: "En palabras me desnudo, en palabras me sensibilizo, en palabras te invito a que me acompañes en esta aventura.",
         intro: "/intro.html",
       },
 
