@@ -22,7 +22,9 @@ export default hopeTheme({
       Linkedin: "https://www.linkedin.com/in/lgutierrez148/",
     },
   },
-
+  
+  sidebar: "heading",
+  
   locales: {
     "/": {
       // navbar
