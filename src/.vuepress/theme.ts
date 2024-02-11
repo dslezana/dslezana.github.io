@@ -11,7 +11,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  favicon: "/favicon.ico",
+  favicon: "/logo.png",
   
   darkmode: "toggle",
 
