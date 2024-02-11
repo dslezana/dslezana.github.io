@@ -19,11 +19,10 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Linkedin: "https://www.linkedin.com/in/lgutierrez148/",
     },
   },
   
-  sidebar: "heading",
+  contributors: false,
   
   locales: {
     "/": {
@@ -31,7 +30,6 @@ export default hopeTheme({
       navbar: esNavbar,
 
       // sidebar
-      sidebar: esSidebar,
 
       footer: "",
 
