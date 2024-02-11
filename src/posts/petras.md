@@ -8,6 +8,9 @@ prev: ../intro
 
 Mi nombre completo es Diego Santiago Lezana Paskevicius, tengo 32 años, soy nacido en Santiago del Estero, Argentina; y hoy quería hablarles sobre mi bisabuelo Petras Paskevicius.
 
+<a v-if="false" href="posts/petras.html">Seguir leyendo</a>
+<!-- more -->
+
 Lituano de nacimiento, según cuentan fue un gran hombre. Cautivaba por ser culto e inteligente. Un hombre alto, buen mozo y de finas facciones. Hablaba nueve idiomas y le apasionaba el arte y la historia. Siendo joven se embarcó, junto a su hermano Ladislao, en un viaje por toda Europa. Como estudiantes de arquitectura y periodismo, buscaron conocer y documentar todas las obras arquitectónicas más importantes del continente, además de entrevistar a personalidades emblemáticas de la época relacionadas con el arte y la cultura. 
 
 Cuando estalló la segunda Guerra mundial, emprendieron su exilio desde Portugal buscando refugio en Sudamérica. Desembarcaron en Brasil y luego fueron recorriendo Paraguay, Uruguay, Perú, Bolivia y Argentina. Ladislao se afincó en Lima, y Petras por el contrario, se instaló en nuestro país. Ambos recibieron una educación privilegiada, dada por un colegio Jesuita en la ciudad de Raseiniai, Condado de Kaunas, de donde eran oriundos. Educación que luego se reflejó en sus cartas, escritos, obras e historias que hoy en la familia guardamos como un tesoro. 
