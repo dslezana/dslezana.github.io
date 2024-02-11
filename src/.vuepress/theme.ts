@@ -29,7 +29,8 @@ export default hopeTheme({
       // navbar
       navbar: esNavbar,
 
-      // sidebar
+    //   sidebar
+    //   sidebar: esSidebar,
 
       footer: "",
 

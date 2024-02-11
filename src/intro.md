@@ -3,6 +3,7 @@ icon: circle-info
 cover: /assets/images/cover2.jpg
 sticky: true
 star: true
+next: ./posts/petras
 ---
 
 # Bienvenido
