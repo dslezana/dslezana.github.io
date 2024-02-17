@@ -1,9 +1,9 @@
 ---
 title: Querido Papá Noel
-order: 1
+order: 3
 cover: /assets/images/chair.jpeg
 star: true
-prev: ../petras
+prev: ./petras
 date: 2024-02-18
 
 ---

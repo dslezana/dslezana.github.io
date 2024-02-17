@@ -3,7 +3,8 @@ title: Petras
 order: 2
 cover: /assets/images/roots.jpg
 star: true
-prev: ../intro
+prev: ../bienvenido
+next: ./papa-noel
 date: 2024-02-11
 
 ---

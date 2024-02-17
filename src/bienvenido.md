@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-order: 3
+order: 1
 cover: /assets/images/cover2.jpg
 next: ./posts/petras
 date: 2024-02-10
