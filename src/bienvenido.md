@@ -3,7 +3,7 @@ icon: circle-info
 order: 3
 cover: /assets/images/cover2.jpg
 next: ./posts/petras
-date: 2023-02-10
+date: 2024-02-10
 
 ---
 
