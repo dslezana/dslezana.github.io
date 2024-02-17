@@ -1,9 +1,10 @@
 ---
 icon: circle-info
+order: 3
 cover: /assets/images/cover2.jpg
-sticky: true
-star: true
 next: ./posts/petras
+date: 2023-02-10
+
 ---
 
 # Bienvenido

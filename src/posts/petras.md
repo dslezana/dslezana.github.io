@@ -4,6 +4,8 @@ order: 2
 cover: /assets/images/roots.jpg
 star: true
 prev: ../intro
+date: 2023-02-11
+
 ---
 
 Mi nombre completo es Diego Santiago Lezana Paskevicius, tengo 32 años, soy nacido en Santiago del Estero, Argentina; y hoy quería hablarles sobre mi bisabuelo Petras Paskevicius.
