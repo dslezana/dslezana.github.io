@@ -12,7 +12,6 @@ Mi querida madre, María Cecilia Paskevicius Cardoso (mi abu Graciela se volvía
 
 <a v-if="false" href="posts/papa-noel.html">Seguir leyendo</a>
 <!-- more -->
-Mi querida madre, María Cecilia Paskevicius Cardoso (mi abu Graciela se volvía loca cuando escribían su apellido con Z), una bella mujer y quizás la persona más sensible y transparente que conozco, me contó muchas historias de su infancia. Algunas muy duras, porque en épocas de su niñez la situación económica familiar no era buena. No pudieron vivir en buenas condiciones a pesar del esfuerzo de mis abuelos. 
 
 Fueron cinco hijos que criar y siempre lo hicieron bastante solos, por ende, llevar una vida próspera se hizo cuesta arriba muchas veces. Fueron innumerables crisis e historias que en otro momento contaré, pero en cartas y poesías de mi abuelo, supe leer entre líneas su angustia de aquellos tiempos. 
 
