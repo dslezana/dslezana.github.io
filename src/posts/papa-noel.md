@@ -3,7 +3,7 @@ title: Querido Papá Noel
 order: 3
 cover: /assets/images/chair.jpeg
 star: true
-prev: ./petras
+prev: ../posts/petras
 date: 2024-02-18
 
 ---

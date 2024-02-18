@@ -4,7 +4,7 @@ order: 2
 cover: /assets/images/wood.jpg
 star: true
 prev: ../bienvenido
-next: ./papa-noel
+next: ../posts/papa-noel
 date: 2024-02-11
 
 ---
