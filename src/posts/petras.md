@@ -1,7 +1,7 @@
 ---
 title: Petras
 order: 2
-cover: /assets/images/roots.jpg
+cover: /assets/images/wood.jpg
 star: true
 prev: ../bienvenido
 next: ./papa-noel
