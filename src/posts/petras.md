@@ -11,7 +11,7 @@ date: 2024-02-11
 
 Mi nombre completo es Diego Santiago Lezana Paskevicius, tengo 32 años, soy nacido en Santiago del Estero, Argentina; y hoy quería hablarles sobre mi bisabuelo Petras Paskevicius.
 
-<a v-if="false" href="posts/petras.html">Seguir leyendo</a>
+<a v-if="false" href="../posts/petras.html">Seguir leyendo</a>
 <!-- more -->
 
 Lituano de nacimiento, según cuentan fue un gran hombre. Cautivaba por ser culto e inteligente. Un hombre alto, buen mozo y de finas facciones. Hablaba nueve idiomas y le apasionaba el arte y la historia. Siendo joven se embarcó, junto a su hermano Ladislao, en un viaje por toda Europa. Como estudiantes de arquitectura y periodismo, buscaron conocer y documentar todas las obras arquitectónicas más importantes del continente, además de entrevistar a personalidades emblemáticas de la época relacionadas con el arte y la cultura. 
