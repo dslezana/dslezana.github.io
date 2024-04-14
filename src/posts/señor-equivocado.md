@@ -14,16 +14,16 @@ Me encuentro culminando un viaje que significó muchísimo para mí. En esta úl
 <!-- more -->
 
 Estando aquí, pude poner a prueba mi determinación y mi tolerancia a las dificultades. Siempre fui un tipo que se rendía rápido. O al menos los últimos años de mi vida, después de haberme separado, lo sentí así. Me costó encontrar mi disciplina la cual tantos años en mi juventud había sido mi bandera. Con el deporte aprendí a entrenar duro y a ponerme objetivos, para los cuáles yo mismo trazaba mi camino en afán de cumplirlos. Siempre fui autodidacta. Me di vuelta siempre para aprender o hacer las cosas solo, y a mi manera. No por orgullo ni terquedad. El uso de razón me lleva a verme así a una muy temprana edad. Siempre me recuerdo así; y si tuviese que buscar una persona que fuese referente para estas conductas, sin dudas ese es mi viejo y es de quien hoy quiero hablarles.
-“Sin querer”, hoy mismo, me topé con un texto que me movilizó muchísimo y el cual sirve de introducción para este post. El mismo cuenta la historia de Facundo Cabral con su padre y pueden leerlo a continuación:
 
+“Sin querer”, hoy mismo, me topé con un texto que me movilizó muchísimo y el cual sirve de introducción para este post. El mismo cuenta la historia de Facundo Cabral con su padre y pueden leerlo a continuación:
 “El padre de Facundo Cabral se fue de casa antes de que este naciera. Luego Sara, la madre de Cabral, fue echada de la casa junto a sus pequeños hijos, y Facundo no tuvo un techo donde nacer. Él contaría que nació en una de las calles de La Plata, como presagio de lo que más adelante la vida le depararía: sin sabores, lucha y mucho aprendizaje, como preparando al gran apóstol musical para un camino que ni la muerte detendría.”
 
 Una noche, tras terminar un concierto, Facundo con 46 años encima, se llevó una gran sorpresa: en el pasillo lo esperaba su padre. “Lo reconocí porque era igual a la foto que mi madre siempre había guardado, pero con el pelo cano. Lo reconocí en el acto porque siempre vi esa foto.”, contaba Cabral. “Mi padre era todo un caballerazo. Era todo lo contrario a mí, era muy elegante, siempre bien puesto. Estaba allí y me quedé congelado”.
 
 Este era el primer encuentro con su padre, ¿se imaginan la tormenta de emociones, pensamientos y nervios que azotaban dentro de aquel hombre que paseaba su música por el mundo pregonando la paz, el perdón y el amor? ¿Qué hacer? Un día Cabral dijo sobre su padre: “Mi padre agotó el odio en mí, lo odie profundamente, había dejado sola a mi madre con siete hijos en un desierto insoportable. Murieron cuatro de hambre y frío en ese tiempo. Sobrevivimos de milagro tres”. Y ahora estaba frente a él, con todo el derecho de decirle todo lo que su corazón guardaba. En ese momento, el recuerdo de las palabras de su madre retumbó en su cabeza:
- “Vos que caminás tanto algún día te vas a encontrar con tu padre. ¡No cometas el error de juzgarlo! Recuerda el mandamiento: honrarás al padre y a la madre. ¡Segundo!, ese hombre que vas a tener enfrente es el hombre que más amó, más ama y más ha amado tu madre. Tercero, lo que corresponde es que le des un abrazo y las gracias porque por él estás gozando las maravillas de Dios en el mundo.”
-
+“Vos que caminás tanto algún día te vas a encontrar con tu padre. ¡No cometas el error de juzgarlo! Recuerda el mandamiento: honrarás al padre y a la madre. ¡Segundo!, ese hombre que vas a tener enfrente es el hombre que más amó, más ama y más ha amado tu madre. Tercero, lo que corresponde es que le des un abrazo y las gracias porque por él estás gozando las maravillas de Dios en el mundo.”
 El desenlace de este encuentro lo cuenta el mismo Facundo: “Por eso cuando vi a mi padre nos acercamos, nos abrazamos y fuimos grandes amigos hasta el final de sus días. Aquella vez me liberé, dije: ‘Mi Dios, qué maravilloso es vivir sin odio’. Me costó años perdonar y pude hacerlo en un segundo. Y me sentí tan bien.”
+
 Tengo que confesar que cuando lo leí se me estremeció la piel y no pude evitar la emoción. Pues hace un tiempo, por esas cosas de la vida misma, no cruzo palabras con mi papá. Por ende, fue un buen momento para recordar alguna historia que viví con él para, más allá de cualquier reproche o enojo guardado, permitirme abrazarlo a la distancia. 
 
 Eran tiempos de mi juventud, tenía 17 años si mal no recuerdo. En esa época el rugby era el centro de mi vida. Nada deseaba más que entrenar, jugar al rugby, pasarlo bien con mis amigos. Mi viejo era el entrenador de mi división en ese momento, y a pesar de que siempre fue un tipo exigente y que quizás con los años descubrí el peso que cargué con eso, en ese momento disfruté mucho de sus enseñanzas, de su compañía y al igual que mis compañeros, disfrutamos de la simpleza y la humildad de su persona. 
@@ -42,14 +42,26 @@ Nadie nace sabiendo ser padre o madre. Es algo que se aprende en el camino. Imit
 Con mi corta experiencia como padre pude entender que no existe un camino o una receta a seguir para ser mejor. El camino se va construyendo con cada paso. Y para eso es fundamental poder amigarse con nuestros padres. Si vivimos en el rechazo o en la queja de no haber tenido la atención o el amor que hubiésemos necesitado, estamos negando al padre o madre que existe en nosotros. Al hacerlo es imposible construir nuestra propia y autentica figura para nuestros hijos. Si rechazamos el abandono de los nuestros, también estamos negando y haciendo vista gorda al abandono que nuestros hijos puedan ver en nosotros. Porque es inevitable que suceda. Quizás te demoras diez minutos en atender un llamado de tu hijo, o el llanto de tu bebé y eso en su psiquismo puede traducirse como abandono o desamor. Algo para nosotros tan insignificante o cotidiano como eso, para ellos puede ser un trauma. 
 
 Por eso invito a padres y madres a vivir la paternidad guiados por la voz de su consciencia, que dicta el que hacer intuitivo en el momento preciso. A no rechazar la palabra o reprimenda de nuestros padres o abuelos que ya tanto han vivido desde ese lugar. A informarnos y buscar herramientas para dar a nuestros hijos una historia de la que puedan el día de mañana sentirse orgullosos. Al menos yo, después de tanta reflexión, tanto recuerdo de mi historia, y tanto hacer y deshacer como padre, hoy puedo agradecer y abrazar a los míos por haberme dado la vida y la oportunidad de hoy poder contar esta historia. 
-“Honrarás a tu padre y a tu madre” es una frase tan desafiante como enriquecedora para la vida de quien pueda cumplirla. Los invito a que busquen y no cedan hasta encontrar la forma de perdonar y agradecer a sus padres por la vida que les han dado. Y para concluir con este post, quería mostrarles una carta que encontré entre los recuerdos de la familia, que recibió mi abuelo Eduardo un día de su cumpleaños. Con mi mamá no pudimos descifrar quien fue el remitente, pues no estaba firmada. Desde el momento en que la leí supe que iba a escribir esto. La misma se titula “Carta a un señor equivocado”, y de alguna manera es una carta que puede estar escrita para todos nosotros en algún momento de nuestras vidas. Espero que puedan hacerla carne no solo para bien de ustedes, sino también para sus padres y madres, y lo más importante, para el bien de sus hijos. Los quiero y los abrazo muy afectuosamente.
 
-“Estás equivocado porque crees que nadie te ama, y también porque crees que no te vemos.
-¡Ah! Si supieras cuanto te amamos y te esperamos, tu alma no estaría tan equivocada.
-Estás equivocado, porque sientes que no eres nadie, cuando eres todo, y también porque crees que no puedes ser más, cuando eres tanto.
+“Honrarás a tu padre y a tu madre” es una frase tan desafiante como enriquecedora para la vida de quien pueda cumplirla. Los invito a que busquen y no cedan hasta encontrar la forma de perdonar y agradecer a sus padres por la vida que les han dado.
 
-Estás equivocado, porque crees estar solo, cuando a tu alrededor el mundo te llama, te grita, te abraza. 
-¡Ah! Si supieras cuantos te aman y quisieran ser lo que eres, bendito sea Dios, por ti.
-Estás equivocado, porque crees que no puedes, cuando lo haces totalmente todo.
-¡Ah! Como quisieran muchos hombres ser amados como te amamos, tener lo que tú tienes, ser lo que tú haces, ¡cuántos!
-Se dichoso, hombre equivocado, porque te amamos y sabemos que eres todo, y que aún equivocado, aun así, eres un ser inmensamente AMADO.”
+Y para concluir con este post, quería mostrarles una carta que encontré entre los recuerdos de la familia, que recibió mi abuelo Eduardo un día de su cumpleaños. Con mi mamá no pudimos descifrar quien fue el remitente, pues no estaba firmada. Desde el momento en que la leí supe que iba a escribir esto. 
+
+La misma se titula “Carta a un señor equivocado”, y de alguna manera es una carta que puede estar escrita para todos nosotros en algún momento de nuestras vidas. Espero que puedan hacerla carne no solo para bien de ustedes, sino también para sus padres y madres, y lo más importante, para el bien de sus hijos. Los quiero y los abrazo muy afectuosamente.
+
+>
+>“Estás equivocado porque crees que nadie te ama, y también porque crees que no te vemos.
+>
+>¡Ah! Si supieras cuanto te amamos y te esperamos, tu alma no estaría tan equivocada.
+>
+>Estás equivocado, porque sientes que no eres nadie, cuando eres todo, y también porque crees que no puedes ser más, cuando eres tanto.
+>
+>Estás equivocado, porque crees estar solo, cuando a tu alrededor el mundo te llama, te grita, te abraza. 
+>
+>¡Ah! Si supieras cuantos te aman y quisieran ser lo que eres, bendito sea Dios, por ti.
+>
+>Estás equivocado, porque crees que no puedes, cuando lo haces totalmente todo.
+>
+>¡Ah! Como quisieran muchos hombres ser amados como te amamos, tener lo que tú tienes, ser lo que tú haces, ¡cuántos!
+>
+>Se dichoso, hombre equivocado, porque te amamos y sabemos que eres todo, y que aún equivocado, aun así, eres un ser inmensamente AMADO.”
