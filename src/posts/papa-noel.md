@@ -4,6 +4,7 @@ order: 3
 cover: /assets/images/chair.jpeg
 star: true
 prev: ../posts/petras
+next: ../posts/rebelde
 date: 2024-02-18
 
 ---

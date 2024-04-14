@@ -4,6 +4,7 @@ order: 4
 cover: /assets/images/arrows.jpeg
 star: true
 prev: ../posts/papa-noel
+next: ../posts/señor-equivocado
 date: 2024-02-24
 
 ---
