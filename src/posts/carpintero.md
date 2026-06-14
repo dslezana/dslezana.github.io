@@ -1,0 +1,107 @@
+---
+title: Carpintero de mi destino
+order: 6
+cover: /assets/images/carpintero.jpg
+star: true
+prev: ../posts/carpintero
+date: 2026-06-14
+
+---
+
+
+Una tarde de 2017 me encontraba en mi cama, desahuciado. Había dejado atrás la vida del rugby. Luego de un sinfín de lesiones, tiré la toalla. Decidí no jugar más. Empezaba a entender que quizás ese ya no era mi camino, o que lo había sido solo hasta ese momento.
+
+Pero dije basta.
+
+<a v-if="false" href="../posts/carpintero.html">Seguir leyendo</a>
+<!-- more -->
+
+El deporte se había vuelto un gran peso; ya no lo disfrutaba. Pasaba más tiempo recuperándome que en la cancha. Cargaba siempre con la presión de sanar cuanto antes para el próximo partido. Sin darme cuenta, fui cargando una mochila de autoexigencias y metas utópicas. Al final, terminé por comprender que esos objetivos habían dejado de ser sueños: eran una necesidad de reconocimiento.
+
+Aquella tarde de julio o agosto, acostado y con la tristeza de una incertidumbre enorme, me preguntaba: «¿Y ahora qué soy?». Si ya no era el deportista con el que me había identificado gran parte de mi vida, ¿qué me tocaba ser? Había dedicado la mayor parte de mis días a entrenar, recuperarme, ver y hablar de rugby. Todo giraba en torno a eso. Incluso mi hija, Rafaela, ya había nacido y, aun así, nuestra rutina familiar dependía de mis entrenamientos, mis competencias y mis viajes. Hasta entonces, el rugby lo era todo.
+
+Cuando tomé la decisión de retirarme, sentí un baldazo de agua fría. Un vacío enorme.
+
+Trabajaba en Tribunales de 7 a 13 h, en un empleo que sabía que no era lo mío. Disfrutaba de mis compañeros y teníamos un hermoso grupo de trabajo, pero sabía que ese no sería mi lugar definitivo. «¿Y ahora qué?», era la pregunta frecuente.
+
+Unos días atrás, un amigo me había invitado a hacer juntos un curso de «Carpintería para muebles de melamina» que iniciaba en un par de semanas. En su momento le dije que sí, recordando que la carpintería siempre me había gustado. Sin embargo, siendo honesto, no tenía expectativas. Estaba totalmente desanimado y sin curiosidad por descubrir algo nuevo.
+
+Ese día mi amigo volvió a llamarme. Al notar mi resistencia, fue tajante: «Estoy por pagar el curso, lo pago para vos también y nos inscribimos». No me quedó más opción que aceptar para cumplir con mi palabra. De verdad me sentía muy deprimido y sin ganas de empezar nada.
+
+Semanas después comenzó el curso. En la primera clase, algo hizo clic: «Esto es lo mío», pensé. Me volvió el alma al cuerpo. Me di cuenta de que era algo que siempre hubiese querido hacer.
+
+A partir de ese día empecé a equiparme. A la segunda clase ya llegué con mi caja de herramientas y un taladro nuevo. Había descubierto un oficio maravilloso. Podía pasarme horas compenetrado en un dibujo, haciendo cálculos o construyendo un mueble. La carpintería me voló la cabeza. Me involucré por completo y, a los pocos meses —incluso antes de terminar el curso—, ya había vendido mis primeros muebles. Avanzaba a pasos agigantados. Y así comenzó mi nueva vida.
+
+Durante el curso, me hice amigo de Maxi, un compañero que tiempo después se convirtió en mi socio. Trabajamos codo a codo un par de años. Fabricamos una gran cantidad de muebles y ganamos muchísima experiencia. Sin embargo, en un punto nuestros caminos se separaron y decidimos disolver la sociedad.
+
+Me abrí paso solo. Tenía la ambición de crear algo grande y significativo. Llegué a tener varios empleados y vi que realmente podía crecer. Hubo muchas dificultades, piedras en el camino y momentos malos, pero siempre me mantuvo firme la misma convicción: esto me apasionaba y debía encontrar la forma de expandirlo.
+
+Me encanta la carpintería, pero con el tiempo entendí lo difícil que es formar una empresa. Nunca tuve formación para ello; siempre lo hice de manera intuitiva, leyendo, informándome, probando e intentando. Durante una crisis financiera tuve que pedirle ayuda a mi hermana Valentina. Con la demanda de trabajo que tenía, ya no podía administrar el emprendimiento solo. Entre idas y vueltas, hoy es mi socia. Ella fue quien me ayudó a estructurar la empresa y a hacerla crecer paso a paso.
+
+Pero más allá de este trayecto empresarial, quería contarles una experiencia particular. Algo que se conecta directamente con mi propósito de vida.
+
+Allá por octubre de 2021 conocí a Juampi. Teníamos un amigo en común y compartíamos la pasión por la música. Charlando con él, descubrí que hacía luthería, arreglaba y restauraba instrumentos. Era algo que siempre me había interesado. Le comenté que me dedicaba a la carpintería y le propuse que, si alguna vez le interesaba trabajar en mi taller, las puertas estaban abiertas. Me contestó con entusiasmo que sí. Unos meses más tarde, entre abril y mayo del año siguiente, Juampi se incorporó al equipo.
+
+En el taller hablábamos de muchas cosas más allá del oficio, sobre todo de nuestro camino espiritual. Él me contó que pertenecía a una organización internacional que realizaba retiros varias veces al año en lugares estratégicos del planeta, donde hay mayor concentración de energía.
+
+También me habló de un hombre español, ya mayor y realizado económicamente, que seguía estos retiros por todo el mundo. Se había comprado un motorhome para viajar y, la noche anterior a los encuentros, estacionaba en la plaza principal del pueblo, acomodaba sillas para la gente y proyectaba películas para ayudar a despertar la conciencia. Un acto de altruismo que me pareció fascinante.
+
+Al poco tiempo de llegar, Juampi me avisó que pronto tendría que ausentarse: estaba confirmado para uno de esos retiros en Córdoba.
+
+Llegó la fecha del viaje. Él se iba un jueves y regresaba al taller el martes. Allá no tendría señal, por lo que estaríamos incomunicados.
+
+Recuerdo que el sábado por la noche, antes de dormir, miraba Instagram y me topé con el video de un hombre fabricando un kayak de madera. Quedé maravillado. Pensé: «Tengo que hacer uno». Este creador enseñaba el paso a paso para construir kayaks y canoas estilo canadiense. Tenía una página web con muchísima información, cursos variados, videos explicativos y planos.
+
+Me atrapó por completo. Recordé mi amor por el agua, el mar, los ríos y los barcos de papel que hacía de niño. Sentí que era un proyecto para desarrollar. En ese mismo instante empecé a compartirle toda la información por Instagram a Juampi. Sabía que no recibiría los mensajes en ese momento, pero estaba seguro de que le interesaría. Me llené de ansiedad esperando su regreso para hablar de su retiro y de mi nuevo descubrimiento.
+
+Pasaron los días y llegó el martes. Yo me había pasado todo el fin de semana investigando sobre la fabricación de kayaks. En cuanto vi a Juampi en el taller, antes de que pudiera decirle nada, me soltó:
+—No vas a creer.
+
+Me quedé helado, sin entender.
+
+—¿Te acordás del hombre español del motorhome? —continuó.
+
+Me contó que el viernes por la tarde este hombre se había instalado en la plaza del pueblo y le había pedido ayuda para montar el «cine» de esa noche. Comenzaron a preparar el lugar, colocar las sillas y desplegar la pantalla. Y aquí ocurrió lo más increíble: para probar el proyector y verificar que todo funcionara bien, el hombre reprodujo los mismos videos del estadounidense que fabricaba kayaks y canoas de madera. Exactamente el mismo contenido que yo le había enviado a Juampi por Instagram el fin de semana.
+
+Lo más loco fue que Juampi también sintió el deseo de compartirlo conmigo y, al no tener señal, filmó la pantalla con su celular. Cuando me mostró los videos y vi que se trataba de la misma persona, me quedé sin palabras. Ese nivel de coincidencia fue impactante.
+
+En ese instante comprendí que detrás de aquello había un mensaje. Una señal clarísima de que debía seguir ese camino sin importar a dónde me llevara. Y así lo hice.
+
+Así comenzó mi aventura en la carpintería naval. Unos meses después, mi querido amigo, el ingeniero Castor López —a quien admiro y aprecio profundamente—, enterado de mi inquietud por las embarcaciones, me envió un artículo reciente del diario La Nación.
+
+El titular decía: «El carpintero que construye la canoa más grande del país para una aventura en el Sur».
+
+Era una nota a Lucas Miguez, un arquitecto dedicado desde hacía años a fabricar remos en el Delta del Tigre. Explicaba que el oficio estaba a solo dos personas de extinguirse. Aparte de él, solo quedaba un hombre muy mayor que no tenía pupilos. Por eso, Lucas había tenido la idea de construir una canoa gigante para diez personas, con la intención de sumar voluntarios a la aventura que quisieran aprender y preservar esta labor. En ese mismo momento le escribí por Facebook y, un año después, llegué a su taller en el Tigre.
+
+Al llegar, me sorprendió la sencillez del lugar. Había un olor a madera inolvidable, canoas viejas colgadas, kayaks dañados y un sinfín de remos terminados y otros en proceso. Él estaba con su ayudante y luego llegó otro chico, estudiante de arquitectura naval, que iba como aprendiz. Todos me recibieron con mucha amabilidad, me invitaron unos mates y nos pusimos a charlar.
+
+Yo contemplaba maravillado un mundo que jamás había conocido: maderas cuya existencia ignoraba, herramientas y pegamentos totalmente nuevos para mí. Todo era alucinante. Sorprendido por la humildad de Lucas, escuché en su relato que era arquitecto —una profesión común en su familia—, pero que hacía muchos años había «elegido» ser carpintero y dedicarse a las embarcaciones, derivando luego en la fabricación de remos. Estos eran muy demandados en la zona del Delta, donde a muchas casas solo se accede en bote y además, el remo de competición se mantiene muy vigente.
+
+Para mi sorpresa, Lucas desalentó un poco mi idea de fabricar kayaks de madera. Me explicó que las versiones modernas de fibra de vidrio los habían desplazado del mercado. Construirlos a mano requería un trabajo inmenso, por lo que su precio final debía ser mucho mayor que el de los industriales de plástico.
+
+Lejos de desanimarme, presté atención a cada palabra y le compartí mi propia historia. En ese encuentro con Lucas entendí algo crucial: hasta ese momento estaba haciendo lo que me resultaba más fácil. Desarrollaba una habilidad en la que me sentía cómodo y fluía, pero en el fondo cargaba con limitaciones internas que me impedían reconocerme como carpintero y como creador de algo tangible y próspero.
+
+Entendí que estaba inmerso en la rutina y la demanda de los clientes, sumado a infortunios que a veces me hacían incumplir pedidos, entregar trabajos a medias o terminar mal ciertos vínculos. Sentía contradicciones internas que no me dejaban abrazar el oficio con asertividad, profesionalismo y compromiso. Estaba lleno de prejuicios hacia los oficios en general. Los mandatos familiares inconscientes me dictaban que debía ser un abogado reconocido, terminar una carrera universitaria o ser un deportista destacado.
+
+El mensaje de Lucas caló hondo en mí; eso era exactamente lo que había ido a buscar. Necesitaba que alguien me enseñara que tenía que «elegir» lo que yo quería ser. Apropiarme de ello. Dejar atrás los prejuicios y el «qué dirán», y construir mi camino desde esa base: la elección consciente de ser lo que deseo, más allá de lo que piensen los demás.
+
+Ese viaje me marcó profundamente. A partir de ahí, ocurrieron cosas maravillosas. No fue fácil, e incluso quise tirar la toalla muchas veces, pero en el fondo sabía que la carpintería formaba parte de mi destino y de mi propósito en esta vida.
+
+Hoy me encuentro en Francia, a miles de kilómetros de mi tierra natal, de mis hijos, mi familia y mis amigos. Estoy acá porque decidí seguir ese llamado. Es ese propósito que espera dentro de todos nosotros y que pide a gritos ser descubierto.
+
+Una vez que encontré la vía para descifrar el mío, me nació naturalmente ayudar a los demás a descubrir el suyo. Invitando a cuestionar y poner en jaque los mandatos preestablecidos y los prejuicios que arrastramos en nuestras historias. Entendí que cuando uno tiene el coraje de lanzarse al vacío, de seguir al corazón y de pedir a Dios que le muestre el camino, empiezan a aparecer señales, casualidades, personas y lugares. También aparecen pruebas, desafíos y obstáculos. Es ahí donde se pone en juego el carácter y la convicción de dejarlo todo para cumplir con esa profecía que nos llama desde todos lados.
+
+Hoy soy un carpintero que trabaja a la distancia. Me dedico a diseñar muebles y a planificar todo el proceso constructivo, con mi hermana como socia y compañera de fierro, llevando adelante juntos este proyecto que alguna vez soñamos con hacer realidad. Hoy soy todo lo que cualquiera jamás asociaría con un «carpintero», pero mi elección me llevó a encontrar la forma de vivir de esto rompiendo muchos estándares.
+
+Estoy próximo a llegar a Palma de Mallorca para construir mi vida allá, siguiendo el camino de la carpintería naval que empezó en 2022 con la casualidad como faro de guía. Me animé a seguir las señales, contra viento y marea. Ese barco lleno de fe y coraje me lleva justamente a la meca de las embarcaciones: una isla en medio del mar con una inmensa actividad náutica, donde podré aprender y conocer ese universo maravilloso. ¿Quién sabe a dónde me lleve todo esto?
+Hoy vuelvo a encontrarme también con la música y, a través de mi amigo Eliseo —con quien reinventamos un vínculo de años—, vuelvo a conectarme con la escritura para contarte esta historia. Una historia que te invita a ir tras ese propósito que guardas en el corazón y que ya no puedes seguir ignorando.
+
+Animate a ser el “carpintero” de tu destino: a tallar, pulir, cortar y quitar de tu vida todo lo que no sea coherente con tu verdadero llamado. Construí un camino que sea tuyo y que, a pesar de los problemas y dificultades, te haga sentir orgulloso y soberano de haber creado algo que inspire a los demás a hacer lo mismo.
+
+Te pido de corazón que atiendas las señales, las casualidades y a las personas que aparecen como por arte de magia. Dios y el universo se comunican a través de ellas para guiarte por el sendero hecho para vos. Y si estas líneas están dentro de las casualidades que llegan hoy a tu vida para mostrarte otro rumbo posible, lo celebro profundamente.
+
+Acá estoy para ayudarte a construirlo.
+
+Un gran abrazo.
+
+
